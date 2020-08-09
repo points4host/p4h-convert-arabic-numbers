@@ -1,6 +1,6 @@
 {
   "name": "p4h-convert-arabic-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert Arabic numbers to English numbers",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "ahmad"
+    "url": "git+https://github.com/points4host/p4h-convert-arabic-numbers.git"
   },
   "keywords": [
-    "Arabic numbers",
-    "convert Arabic numbers"
+    "Arabic",
+    "numbers"
   ],
   "author": "Ahmed Alrashidi",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/points4host/p4h-convert-arabic-numbers/issues"
+  },
+  "homepage": "https://github.com/points4host/p4h-convert-arabic-numbers#readme"
 }
