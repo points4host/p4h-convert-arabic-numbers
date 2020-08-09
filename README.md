@@ -1,7 +1,6 @@
 # Convert Arabic Numbers To English Numbers
 
-A simple package to convert Arabic numbers to English numbers.
-
+A simple JavaScript library to convert Arabic numbers to English numbers.
 
 ## Getting Started
 
