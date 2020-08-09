@@ -14,6 +14,7 @@ Import into your project:
 ```js
 import { p4har } from 'p4h-convert-arabic-numbers';
 
+// Example:
+
 p4har('١٢٣٤٥٦٧٨٩٠'); // 1234567890
 ```
-
