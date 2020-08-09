@@ -1,0 +1,19 @@
+{
+  "name": "p4h-convert-arabic-numbers",
+  "version": "1.0.0",
+  "description": "convert Arabic numbers to English numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ahmad"
+  },
+  "keywords": [
+    "Arabic numbers",
+    "convert Arabic numbers"
+  ],
+  "author": "Ahmed Alrashidi",
+  "license": "MIT"
+}
